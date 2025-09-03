@@ -96,8 +96,11 @@ We welcome contributions from developers, social workers, foster parents, and co
 * Submit pull requests for improvements.
 * Share feedback to shape the platform.
 
+* Feel free to contact us via **ramminadevdesign@gmail.com** for any feedback or suggestions.
+
 ---
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
